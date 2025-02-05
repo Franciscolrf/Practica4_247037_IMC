@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica4_247037_IMC</string>
+    <string name="title_activity_main">Calculadora IMC</string>
+    <string name="estatura">Ingresa tu Estatura</string>
+    <string name="peso">Ingresa tu Peso</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">IMC: </string>
+    <string name="bajo_peso">Bajo Peso</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="kilos">Kilos</string>
+    <string name="metros">Metros</string>
+    <string name="kilosHint">Kg(Xx.x)</string>
+    <string name="metrosHint">Mts(Xx.x)</string>
+</resources>
